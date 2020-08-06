@@ -1,2 +1,2 @@
-echo "hello"
-
+echo "how are you"
+echo "bye"
